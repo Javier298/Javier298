@@ -1,4 +1,4 @@
 # source:
 1. bridge_crack: https://www.wbbjtv.com/2022/12/15/tdot-officials-talks-about-crack-seen-in-social-media-post/
-2. bridge_crack_alkali: 
+2. bridge_crack_alkali: https://www.researchgate.net/figure/a-Alkali-silica-reaction-in-a-pillar-block-14-b-Alkali-silica-reaction-in-concrete_fig4_309906626
 3. bridge_corrosion: https://bridgemastersinc.com/combat-corrosion/
